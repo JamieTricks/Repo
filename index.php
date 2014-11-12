@@ -1,6 +1,6 @@
 <!doctype html>
 
-<title> Test </title>
+<title> Trial </title>
 
 <body>
 <h1> test </h1>
